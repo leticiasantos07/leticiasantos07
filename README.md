@@ -2,7 +2,7 @@
 
 Meu nome é Leticia Santos 
 
-- Estou estudando na Alura
+- Estou estudando na Alura [Alura](https://www.alura.com.br)
 - Estou desenvolvendo na Linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
